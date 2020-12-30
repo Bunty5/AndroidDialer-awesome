@@ -584,13 +584,13 @@ public class DialerDatabaseHelper extends SQLiteOpenHelper {
      */
     public void startSmartDialUpdateThread() {
         if (PermissionsUtil.hasContactsPermissions(mContext)) {
-            new SmartDialUpdateAsyncTask().execute();
+            new SmartDialUpdateAsyncTask().execute( new Object[0]);
         }
     }
 
-    private class SmartDialUpdateAsyncTask extends AsyncTask {
+    private class SmartDialUpdateAsyncTask extends AsyncTask<Object, Object, Object> {
         @Override
-        protected Object doInBackground(Object[] objects) {
+        protected Object doInBackground(Object... objArr) {
             if (DEBUG) {
                 Log.v(TAG, "Updating database");
             }

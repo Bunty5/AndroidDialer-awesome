@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidDialer.iml" filepath="$PROJECT_DIR$/AndroidDialer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.android.common/com.android.common.iml" filepath="$PROJECT_DIR$/com.android.common/com.android.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.android.contacts.common/com.android.contacts.common.iml" filepath="$PROJECT_DIR$/com.android.contacts.common/com.android.contacts.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.android.dialer/com.android.dialer.iml" filepath="$PROJECT_DIR$/com.android.dialer/com.android.dialer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.android.phone.common/com.android.phone.common.iml" filepath="$PROJECT_DIR$/com.android.phone.common/com.android.phone.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.android.common/Phone.com.android.common.iml" filepath="$PROJECT_DIR$/.idea/modules/com.android.common/Phone.com.android.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.android.contacts.common/Phone.com.android.contacts.common.iml" filepath="$PROJECT_DIR$/.idea/modules/com.android.contacts.common/Phone.com.android.contacts.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.android.dialer/Phone.com.android.dialer.iml" filepath="$PROJECT_DIR$/.idea/modules/com.android.dialer/Phone.com.android.dialer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.android.phone.common/Phone.com.android.phone.common.iml" filepath="$PROJECT_DIR$/.idea/modules/com.android.phone.common/Phone.com.android.phone.common.iml" />
     </modules>
   </component>
 </project>

@@ -18,7 +18,3 @@ google dialer for Android N
 ##Run requirements
 Android OS 5.0 and up
 
-## Development
-If you think this article useful Nepal , please pay attention to me<br />
-Your support is my motivation, I will continue to strive to do better
-
